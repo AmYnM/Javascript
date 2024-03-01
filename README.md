@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-
-Rock Paper Scissors simple game
+# Javascript-
+Simple Javascript files/game
